@@ -1,0 +1,14 @@
+.btn {
+    width: 100px;
+    height: 50px;
+    &--primary {
+        color: blue;
+        background: antiquewhite;
+    }
+    &--warning {
+        color: red;
+        background: yellow;
+    }
+
+
+}
